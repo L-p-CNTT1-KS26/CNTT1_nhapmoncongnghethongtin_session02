@@ -1,0 +1,5 @@
+Phần 1: Phân tích vấn đề:
+1. Dùng đường dẫn tuyệt đối máy cá nhân: Máy chủ và người dùng không thể truy cập vào ổ đĩa C: trên máy tính cá nhân của người tạo để lấy ảnh
+2. Sai định dạng chữ hoa, thường: Nhập .JPG nhưng file thực tế là .jpg. Máy chủ trên mạng phân biệt rõ chữ hoa, thường nên không tìm thấy file
+Phần 2: Hoàn thiện bài:
+<img src="images/poster.jpg">
